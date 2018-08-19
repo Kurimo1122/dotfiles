@@ -7,6 +7,8 @@ set softtabstop=4
 set expandtab
 set shiftwidth=4
 
+set backspace=indent,eol,start
+
 " pasteモード(,iでもペーストモードへ. ノーマルに戻るとインサートに戻す)
 nnoremap ,i :<C-u>set paste<Return>i
 autocmd InsertLeave * set nopaste
