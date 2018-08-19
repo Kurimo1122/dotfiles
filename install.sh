@@ -5,4 +5,3 @@ ln -sf ~/dotfiles/.zshrc ~/.zshrc
 ln -sf ~/dotfiles/.vim ~/.vim
 ln -sf ~/dotfiles/.oh-my-zsh ~/.oh-my-zsh
 git submodule add -f https://github.com/Shougo/neobundle.vim .vim/bundle/neobundle.vim
-source .zshrc
