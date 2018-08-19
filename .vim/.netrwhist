@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ToshimitsuKugimoto/workspace/rails/monogatari/imageUpload'
+let g:netrw_dirhist_2='/Users/ToshimitsuKugimoto/Downloads/new_app/.ebextensions'
+let g:netrw_dirhist_3='/Users/ToshimitsuKugimoto/workspace/research/get_templates/dictionary'
+let g:netrw_dirhist_4='/Users/ToshimitsuKugimoto/.vim'
